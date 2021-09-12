@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Vegetables and Fruits",
+    "displayTitle": "Vegetables and Fruits",
+    "body": "",
+    "_classes": "",
+    "subtitle": "Objectives",
+    "pageBody": "<p><span style=\"color:#FF8C00\"><strong>By the end of this lesson you should be able to:</strong></span></p><p><span style=\"color:#FF8C00\"><strong>-Apply a healthy diet</strong></span></p><p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#FF0000\">نموذج درس، صُمّم باستخدام الأداة adapt، يُراعى فيه التسلسل التربويّ في التخطيط للدرس، أو أيّ نشاط تعلّمي،&nbsp; لكنه غير مرتبط بهدف تربويّ محدّد في المنهج بشكل مباشر.</span></strong></span></p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "612f40bfe963ae172898561e",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/357f6ac7e59a846acf868adeb459b1f8288baccb.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]

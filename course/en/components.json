@@ -1,0 +1,945 @@
+[
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "612f460ae963ae1728985631",
+    "_parentId": "612f460ae963ae1728985630",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Let's watch the video now!",
+    "_media": {
+      "mp4": "course/en/assets/94b8a17acc399fbdbd4efdd0222ee35c8b61ef6a.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/ab564a4b01b0ccf69d8fea8f932139f6031dda65.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF8C00\"><strong>A healthy, balanced diet includes:</strong></span></p>",
+    "_id": "612f460ae963ae1728985634",
+    "_parentId": "612f460ae963ae1728985630",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Select the right answer (s)",
+    "_items": [
+      {
+        "text": "Chocolate",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Vegetables ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Sugar",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Fruits",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "A variety of protein ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Full-fat",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Great !</p>",
+      "_incorrect": {
+        "final": "<p>Sorry !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Introduction",
+    "body": "<p>A <span style=\"color:#FF8C00\"><strong>diet rich in vegetables and fruits</strong></span> can lower blood pressure, reduce the risk of heart disease and stroke, prevent some types of cancer, lower risk of eye and digestive problems, and have a positive effect upon blood sugar, which can help keep appetite in check. Eating non-starchy vegetables and fruits like apples, pears, and green leafy vegetables may even promote weight loss.&nbsp;Their low glycemic loads prevent blood sugar spikes that can increase hunger.</p><p><span style=\"color:#FF8C00\"><strong>At least nine different families of fruits and vegetables exist</strong></span>, each with potentially hundreds of different plant compounds that are beneficial to health. Eat a variety of types and colors of produce in order to give your body the mix of nutrients it needs. This not only ensures a greater diversity of beneficial plant chemicals but also creates eye-appealing meals.</p>",
+    "_id": "612f4e34e963ae1728985640",
+    "_parentId": "612f427ae963ae1728985623",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Tips to eat more vegetables and fruits each day",
+    "body": "",
+    "_id": "612f50b6e963ae1728985646",
+    "_parentId": "612f50a9e963ae1728985645",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Keep fruit where you can see it. Place several ready-to-eat washed whole fruits in a bowl or store chopped colorful fruits in a glass bowl in the refrigerator to tempt a sweet tooth.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9af6bf53e58b02f542bb229af6752df5898a02f0.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "1"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"margin-left:18.0pt\">Explore the produce aisle and choose something new. Variety and color are key to a healthy diet. On most days, try to get at least one serving from each of the following categories: dark green leafy vegetables; yellow or orange fruits and vegetables; red fruits and vegetables; legumes (beans) and peas; and citrus fruits.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e422899ded8774a7d9a293d6e48eeec0a23d7fea.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "2"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Skip the potatoes. Choose other vegetables that are packed with different nutrients and more slowly digested carbohydrates.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1c51da17976b2450488e7dca9eb14899d363c12d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "3"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p style=\"margin-left:18.0pt\">Make it a meal. Try cooking new recipes that include more vegetables. Salads, soups, and stir-fries are just a few ideas for increasing the number of tasty vegetables in your meals.</p>",
+        "_graphic": {
+          "src": "course/en/assets/57cdd2f847ae38c406c8bebfd0e48b6a0d7c107f.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "4"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Vegetables, fruits, and disease",
+    "body": "",
+    "_id": "612f5290e963ae172898564c",
+    "_parentId": "612f528ce963ae172898564b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Cardiovascular disease",
+        "body": "<p>There is compelling evidence that a diet rich in fruits and vegetables can lower the risk of heart disease and stroke.</p><p>A meta-analysis of cohort studies following 469,551 participants found that a higher intake of fruits and vegetables is associated with a reduced risk of death from cardiovascular disease, with an average reduction in risk of 4% for each additional serving per day of fruit and vegetables.</p><p>The largest and longest study to date, done as part of the Harvard-based Nurses’ Health Study and Health Professionals Follow-up Study, included almost 110,000 men and women whose health and dietary habits were followed for 14 years.</p><p>The higher the average daily intake of fruits and vegetables, the lower the chances of developing cardiovascular disease. Compared with those in the lowest category of fruit and vegetable intake (less than 1.5 servings a day), those who averaged 8 or more servings a day were 30% less likely to have had a heart attack or stroke.</p><p>Although all fruits and vegetables likely contributed to this benefit, green leafy vegetables, such as lettuce, spinach, Swiss chard, and mustard greens, were most strongly associated with decreased risk of cardiovascular disease. Cruciferous vegetables such as broccoli, cauliflower, cabbage, Brussels sprouts, bok choy, and kale; and citrus fruits such as oranges, lemons, limes, and grapefruit (and their juices) also made important contributions.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Blood pressure",
+        "body": "<p>The Dietary Approaches to Stop Hypertension (DASH) study examined the effect on blood pressure of a diet that was rich in fruits, vegetables, and low-fat dairy products and that restricted the amount of saturated and total fat. The researchers found that people with high blood pressure who followed this diet reduced their systolic blood pressure (the upper number of a blood pressure reading) by about 11 mm Hg and their diastolic blood pressure (the lower number) by almost 6 mm Hg—as much as medications can achieve.</p><p>A randomized trial known as the Optimal Macronutrient Intake Trial for Heart Health (OmniHeart) showed that this fruit and vegetable-rich diet lowered blood pressure even more when some of the carbohydrate was replaced with healthy unsaturated fat or protein.</p><p>In 2014 a meta-analysis of clinical trials and observational studies found that consumption of a vegetarian diet was associated with lower blood pressure.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Cancer",
+        "body": "<p>Numerous early studies revealed what appeared to be a strong link between eating fruits and vegetables and protection against cancer. Unlike case-control studies, cohort studies, which follow large groups of initially healthy individuals for years, generally provide more reliable information than case-control studies because they don’t rely on information from the past. And, in general, data from cohort studies have not consistently shown that a diet rich in fruits and vegetables prevents cancer.</p><p>&nbsp;</p><p>For example, over a 14-year period in the Nurses’ Health Study and the Health Professionals Follow-up Study, men and women with the highest intake of fruits and vegetables (8+ servings a day) were just as likely to have developed cancer as those who ate the fewest daily servings (under 1.5).</p><p>A meta-analysis of cohort studies found that a higher fruit and vegetable intake did not decrease the risk of deaths from cancer.</p><p>A more likely possibility is that some types of fruits and vegetables may protect against certain cancers.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Diabetes",
+        "body": "<p>Some research looks specifically at whether individual fruits are associated with risk of type 2 diabetes. While there isn’t an abundance of research into this area yet, preliminary results are compelling.</p><p>A study of over 66,000 women in the Nurses’ Health Study, 85,104 women from the Nurses’ Health Study II, and 36,173 men from the Health Professionals Follow-up Study—who were free of major chronic diseases—found that greater consumption of whole fruits—especially blueberries, grapes, and apples—was associated with a lower risk of type 2 diabetes. Another important finding was that greater consumption of fruit juice was associated with a higher risk of type 2 diabetes.</p><p>Additionally a study of over 70,000 female nurses aged 38-63 years, who were free of cardiovascular disease, cancer, and diabetes, showed that consumption of green leafy vegetables and fruit was associated with a lower risk of diabetes. While not conclusive, research also indicated that consumption of fruit juices may be associated with an increased risk among women. (</p><p>A study of over 2,300 Finnish men showed that vegetables and fruits, especially berries, may reduce the risk of type 2 diabetes.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Weight",
+        "body": "<p>Data from the Nurses’ Health Studies and the Health Professional’s Follow-up Study show that women and men who increased their intakes of fruits and vegetables over a 24-year period were more likely to have lost weight than those who ate the same amount or those who decreased their intake. Berries, apples, pears, soy, and cauliflower were associated with weight loss while starchier vegetables like potatoes, corn, and peas were linked with weight gain. However, keep in mind that adding more produce into the diet won’t necessarily help with weight loss unless it replaces another food, such as refined carbohydrates of white bread and crackers.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Gastrointestinal health",
+        "body": "<p>Fruits and vegetables contain indigestible fiber, which absorbs water and expands as it passes through the digestive system. This can calm symptoms of an irritable bowel and, by triggering regular bowel movements, can relieve or prevent constipation. The bulking and softening action of insoluble fiber also decreases pressure inside the intestinal tract and may help prevent diverticulosis.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Vision",
+        "body": "<p>Eating fruits and vegetables can also keep your eyes healthy, and may help prevent two common aging-related eye diseases—cataracts and macular degeneration—which afflict millions of Americans over age 65. Lutein and zeaxanthin, in particular, seem to reduce risk of cataracts.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "text",
+    "_classes": "summary",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Summary",
+    "body": "<p>- Fruits and vegetables contain important vitamins, minerals and plant chemicals. They also contain fiber.</p><p>- There are many varieties of fruit and vegetables available and many ways to prepare, cook and serve them.</p><p>- A diet high in fruit and vegetables can help protect you against cancer, diabetes and heart disease.</p><p>- Eat five kinds of vegetable and two kinds of fruit every day for good health.</p><p>- When buying and serving fruit and vegetables, aim for variety to get the most nutrients and appeal.</p>",
+    "_id": "612f56a8e963ae1728985651",
+    "_parentId": "612f56a8e963ae1728985650",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6138f10c3de023276c432682",
+    "_parentId": "612f427ae963ae1728985623",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/df67dbfe86dfe8e040840c4ad3a7d795bb756006.png",
+      "small": "course/en/assets/df67dbfe86dfe8e040840c4ad3a7d795bb756006.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "QUIZ",
+    "displayTitle": "QUIZ",
+    "body": "",
+    "_id": "6138f4b73de023276c432688",
+    "_parentId": "612fc79a1129831b04a9bb91",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<iframe src=\"https://h5p.org/h5p/embed/483963\" width=\"1090\" height=\"339\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"geolocation *; microphone *; camera *; midi *; encrypted-media *\" title=\"Foods\"></iframe> ",
+    "_id": "6138f57c3de023276c43268a",
+    "_parentId": "6138f5733de023276c432689",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q1",
+    "displayTitle": "Q1",
+    "body": "<p><strong>To eat more fruits each day:</strong></p>",
+    "_id": "6138f9373de023276c43268c",
+    "_parentId": "6138f5983de023276c43268b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Select the right answer",
+    "_items": [
+      {
+        "text": "Keep fruits where you can see it",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Tell someone to remind you to eat",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Buy fruits every day",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Great !</p>",
+      "_incorrect": {
+        "final": "<p>Sorry !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q2",
+    "displayTitle": "Q2",
+    "body": "<p><span style=\"color:#FF8C00\"><strong>A fruit rich&nbsp;in Vitamin C!</strong></span></p>",
+    "_id": "6138fb713de023276c432690",
+    "_parentId": "6138fb673de023276c43268f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Select the right answer",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/ebd154c6e05e37901a7d44686a2ef3cd4a8afaa4.png",
+          "small": "course/en/assets/ebd154c6e05e37901a7d44686a2ef3cd4a8afaa4.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 5000
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/3428d488adffc6dedeb307f97df010715dfb3545.png",
+          "small": "course/en/assets/3428d488adffc6dedeb307f97df010715dfb3545.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/0a7beb16e187d60a82125995ec81cb495f49ac06.png",
+          "small": "course/en/assets/0a7beb16e187d60a82125995ec81cb495f49ac06.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 3,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Great !</p>",
+      "_incorrect": {
+        "final": "<p>Sorry !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q3",
+    "displayTitle": "Q3",
+    "body": "<p><strong>The Dietary Approaches to Stop Hypertension (DASH) study examined the effect on <u><span style=\"background-color:#FF8C00\">???</span></u> pressure of a diet that was rich in fruits and vegetables</strong></p>",
+    "_id": "6138fd3d3de023276c43269f",
+    "_parentId": "6138fd3d3de023276c43269e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Input your answer",
+    "_items": [
+      {
+        "_answers": [
+          "Blood"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Great !</p>",
+      "_incorrect": {
+        "final": "<p>Sorry !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q4",
+    "displayTitle": "Q4",
+    "body": "<p><strong>For a healthy diet, eat more: </strong></p>",
+    "_id": "613cadc2d3e48931b4099318",
+    "_parentId": "6138feba3de023276c4326a0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "input your answer",
+    "_items": [
+      {
+        "_answers": [
+          "fruits and vegetables",
+          "vegetables and fruits",
+          "fruits",
+          "vegetables"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Great !</p>",
+      "_incorrect": {
+        "final": "<p>Sorry !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q5",
+    "displayTitle": "Q5",
+    "body": "",
+    "_id": "613cafc9d3e48931b409931a",
+    "_parentId": "613cafc3d3e48931b4099319",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "I am a fruit",
+        "_options": [
+          {
+            "text": "Lettuce",
+            "_isCorrect": false
+          },
+          {
+            "text": "Orange",
+            "_isCorrect": true
+          },
+          {
+            "text": "Cabbage",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "I am a vegetable",
+        "_options": [
+          {
+            "text": "Kiwi",
+            "_isCorrect": false
+          },
+          {
+            "text": "Lettuce",
+            "_isCorrect": true
+          },
+          {
+            "text": "Strawberry",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Great !</p>",
+      "_incorrect": {
+        "final": "<p>Sorry !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]
